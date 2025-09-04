@@ -373,6 +373,24 @@ If you use `OpenDeepSearch` in your works, please cite it using the following Bi
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2503.20201},
 }
+
+@software{salah_alzubi_2025_17024736,
+  author       = {salah alzubi},
+  title        = {salzubi401/OpenDeepSearch: ODS v1},
+  month        = sep,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17024736},
+  url          = {https://doi.org/10.5281/zenodo.17024736},
+  swhid        = {swh:1:dir:5bf47e4ed31efe9b28c52756f0d395397fe16eac
+                   ;origin=https://doi.org/10.5281/zenodo.17024735;vi
+                   sit=swh:1:snp:dffa2c1d4a661f7c704079982d2d4a645ea3
+                   5863;anchor=swh:1:rel:3a03122986ae5047931a658751a9
+                   310926a60b9f;path=salzubi401-OpenDeepSearch-a2ac90
+                   4
+                  },
+}
 ```
 
 
